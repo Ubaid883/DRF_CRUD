@@ -13,3 +13,5 @@ class Student(models.Model):
         ("Math",'Math'),
         ("Bio",'Bio'),
     ])
+    def __str__(self):
+        return str(self.name)
