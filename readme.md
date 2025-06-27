@@ -4,6 +4,7 @@ This project is a simple Django-based API that performs **CRUD (Create, Read, Up
 
 ---
 
+
 ## 📌 Features
 
 - ✅ View all student records
@@ -73,4 +74,8 @@ For any queries or contributions, feel free to contact me or open an issue!
 
 📧 Email: ubaidsaleem825@gmail.com
 
-
+---
+![Student View](source\images\student_view_01.png)
+![Student-details](source\images\student-details.png)
+![Model code](source\images\model_code.png)
+![View code](source\images\view_code.png)
