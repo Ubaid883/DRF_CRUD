@@ -60,3 +60,17 @@ This project is a simple Django-based API that performs **CRUD (Create, Read, Up
 |GET| api/student/id/ | Get a specific student by ID|
 |PUT| api/student/id/ | Update student info by ID|
 |DELETE | api/student/id/ | Delete student record by ID|
+
+## 🙌 Acknowledgements
+This project is built using the amazing tools provided by:
+- [Django](https://www.python.org/)
+- [Django REST Framework](https://www.django-rest-framework.org)
+
+## 📬 Contact
+For any queries or contributions, feel free to contact me or open an issue!
+
+💼 GitHub: https://github.com/Ubaid883
+
+📧 Email: ubaidsaleem825@gmail.com
+
+
